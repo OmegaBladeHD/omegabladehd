@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-
-**OmegaBladeHD/omegabladehd** est un référentiel ✨ _spécial_ ✨ car son `LISERMOI.md` (ce fichier) apparaît sur votre profil GitHub.
+**OmegaBladeHD/omegabladehd** est un référentiel ✨ _spécial_ ✨ car son `LISEZMOI.md` (ce fichier) apparaît sur votre profil GitHub.
 
 Here are some ideas to get you started:
 
